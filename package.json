@@ -1,7 +1,7 @@
 {
   "name": "oce-vue-gallery-sample",
   "description": "A simple gallery site built using Vue and Oracle Content Management",
-  "version": "22.4.2",
+  "version": "22.12.1",
   "author": "Oracle America, Inc.",
   "license": "UPL-1.0",
   "repository": {
